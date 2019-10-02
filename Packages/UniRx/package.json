@@ -1,0 +1,15 @@
+{
+    "name": "neuecc.unirx",
+    "version": "5.5.0",
+    "displayName": "UniRx - Reactive Extensions for Unity",
+    "unity": "2018.3",
+    "dependencies": {},
+    "keywords": [
+        "neuecc",
+        "unirx"
+    ],
+    "author": {
+        "name": "Yoshifumi Kawai(neuecc)",
+        "url": "https://github.com/neuecc/UniRx/"
+    }
+}
