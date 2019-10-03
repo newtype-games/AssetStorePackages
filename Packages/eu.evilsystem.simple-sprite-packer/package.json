@@ -1,0 +1,14 @@
+{
+    "name": "eu.evilsystem.simple-sprite-packer",
+    "version": "1.8.0-rc.1",
+    "displayName": "Simple Sprite Packer",
+    "unity": "2018.3",
+    "dependencies": {},
+    "keywords": [
+        "sprite"
+    ],
+    "author": {
+        "name": "ChoMPI",
+        "url": "https://assetstore.unity.com/packages/tools/sprite-management/simple-sprite-packer-23276"
+    }
+}
