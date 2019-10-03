@@ -1,6 +1,6 @@
 {
     "name": "neuecc.unirx",
-    "version": "5.5.0",
+    "version": "5.5.0-rc.0",
     "displayName": "UniRx - Reactive Extensions for Unity",
     "unity": "2018.3",
     "dependencies": {},
