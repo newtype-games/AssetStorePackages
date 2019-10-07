@@ -1,11 +1,13 @@
 {
     "name": "eu.evilsystem.simple-sprite-packer",
-    "version": "1.8.0-rc.1",
+    "version": "1.8.0-preview.2",
     "displayName": "Simple Sprite Packer",
     "unity": "2018.3",
     "dependencies": {},
     "keywords": [
-        "sprite"
+        "upm",
+        "sprite",
+        "packer"
     ],
     "author": {
         "name": "ChoMPI",
