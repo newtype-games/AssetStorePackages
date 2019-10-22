@@ -1,12 +1,11 @@
 # 3rd Party Unity Packages
 
-This is the monorepos for packing all the 3rd party unity packages into UPM and publish to our own registry.
+This is the Unity project for converting the Asset Store package as UPM package
+
+## Registry
+
+URL: http://registry.newtype.games:4873/
 
 ## Publish Guide
 
 TBD
-
-```txt
-registry=https://pkgs.dev.azure.com/newtype-games/3rdparty-unity-packages/_packaging/upm-packages/npm/registry/
-always-auth=true
-```
